@@ -1,0 +1,23 @@
+{
+  "name": "52-host",
+  "version": "1.0.0",
+  "description": "User Flub Waste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Suraj Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.1",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15"
+  }
+}

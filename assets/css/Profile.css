@@ -1,0 +1,32 @@
+.coin-img {
+  width: 100px;
+  height: 100px;
+}
+
+.user-coin{
+    color: #4f4f4f;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+
+.btn-color{
+    background-color: #ffcd00;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.edit-btn{
+  background: none;
+  border: none;
+  outline: none;
+}
+
+.edit-div-nv{
+  display: none;
+}
+
+.btn-width{
+  width: 100px;
+}
