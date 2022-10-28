@@ -11,7 +11,7 @@ exports.newuserverify = (user,access,name)=>{
 
 
     nodeMailer.transporter.sendMail({
-        from:'"Flub Waste" <projectmanageritm@gmail.com>',
+        from:'"Flub Waste" <flubwastebank@gmail.com>',
         to:user,
         subject:'User Verification Link',
         html:htmlString,
